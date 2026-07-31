@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Bancos de dados (dados de teste não precisam ir pro repo)
+*.db
+
+# Ambiente
+.env
