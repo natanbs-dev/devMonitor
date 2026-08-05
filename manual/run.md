@@ -10,8 +10,9 @@ cd ../api
 cp ../worker/devmonitor.db ./devmonitor.db
 
 ## 4. Reinicie a API para carregar os dados novos
-# Ctrl+C no terminal onde node server.js está rodando, depois:
-node server.js
+
+_Ctrl+C no terminal onde node server.js está rodando, depois:
+node server.js_
 
 ## 5. Dê refresh no navegador (http://localhost:5173)
 
